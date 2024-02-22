@@ -17,3 +17,20 @@ body{
 .font-bold-color{
     color:#030712;
 }
+
+.seat{
+    background-color: #F7F8F8;
+    padding-left: 40px;
+    padding-right: 40px;
+    text-align: center;
+    border-radius: 12px;
+    font-family: "Inter", sans-serif;
+    color: #03071280;
+}
+
+::placeholder{
+    color: #03071266;
+    font-family:"Inter", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
